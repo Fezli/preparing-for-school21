@@ -1,1 +1,2 @@
-- [Карта математики для машинного обучения](https://maps.joindeltaacademy.com/)
+# Машинное обучение
+* [Математика для машинного обучения карта](https://maps.joindeltaacademy.com/)
