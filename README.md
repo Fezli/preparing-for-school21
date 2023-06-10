@@ -12,8 +12,8 @@
   * [Тервер light ч.2](https://stepik.org/course/3209/syllabus) rus
   * [Матан](https://stepik.org/course/95/syllabus) rus
   * [Дискретные структуры](https://stepik.org/course/83/syllabus) rus
-* []()
-* []()
+* [Машинное обучение карта](https://vc.ru/u/1389654-machine-learning/596407-roadmap-dlya-izucheniya-machine-learning-2023) rus
+* [Тренировка по алгоритмам 1.0 2.0 3.0](https://yandex.ru/yaintern/algorithm-training_1) rus
 * []()
 * []()
 * []()
