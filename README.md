@@ -6,10 +6,10 @@
 * [Pandas Tutorial](https://www.w3schools.com/python/pandas/default.asp) eng
 * [Open Data Science](https://ods.ai/) rus
 * [Хендбуки](https://academy.yandex.ru/handbook) rus
-  * [Основы C++](https://academy.yandex.ru/handbook/cpp)
-  * [Основы алгоритмов](https://academy.yandex.ru/handbook/algorithms)
-  * [Машинное обучение](https://academy.yandex.ru/handbook/ml)
-  * [Прикладной анализ данных в социальных науках](https://academy.yandex.ru/handbook/data-analysis)
+  * [Основы C++](https://academy.yandex.ru/handbook/cpp) rus
+  * [Основы алгоритмов](https://academy.yandex.ru/handbook/algorithms) rus
+  * [Машинное обучение](https://academy.yandex.ru/handbook/ml) rus
+  * [Прикладной анализ данных в социальных науках](https://academy.yandex.ru/handbook/data-analysis) rus
 * [Stepik](https://stepik.org/learn) rus
   * [Тервер hard](https://stepik.org/course/3089/syllabus) rus
   * [Тервер light ч.1](https://stepik.org/course/2911/syllabus) rus
