@@ -1,0 +1,1 @@
+- [Карта математики для машинного обучения](https://maps.joindeltaacademy.com/)
