@@ -30,8 +30,8 @@
 * []()
 * []()
 ### Книги
-* [Шпигельхалтер Д. - Искусство статистики](https://disk.yandex.ru/i/-bHkrxGTSyS-hA)
-* []()
+* [Шпигельхалтер Д. - Искусство статистики](https://disk.yandex.ru/i/-bHkrxGTSyS-hA) rus
+* [Математика для машинного обучения](https://mml-book.github.io/) eng
 * []()
 * []()
 * []()
