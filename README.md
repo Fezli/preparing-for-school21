@@ -3,26 +3,14 @@
 * [Начальный курс по C](https://stepik.org/course/3078/promo#toc)
 * [Продвинутый курс по C](https://stepik.org/course/73618/promo#toc)
 * [Курс лекций по C](https://disk.yandex.ru/d/QrItl6GylwoDsA)
-* []()
-* []()
 ### Командная строка
 * [Основы командной строки](https://ru.hexlet.io/courses/cli-basics)
-* []()
-* []()
-* []()
-* []()
 ### Git
 * [Курс по Git от ЯП](https://practicum.yandex.ru/git-basics/?utm_source=telegram&utm_medium=performance&utm_campaign=Telegram_performance_promo_git-basics-it_boooks)
-* []()
-* []()
-* []()
-* []()
 ### IDE
 * [Небольшое описание VIM](https://guides.hexlet.io/ru/vim/)
 * [Курс по VIM](https://www.youtube.com/playlist?list=PL8hRAtHSjAgZv7WFVDvQzzU-WoL-7jZGJ)
 * [Гайд по VS Code](https://www.youtube.com/watch?v=nxCLXMBl4e4)
-* []()
-* []()
 # Машинное обучение
 ### Обучение
 * [Математика для машинного обучения карта](https://maps.joindeltaacademy.com/) eng
@@ -48,30 +36,6 @@
 * [Материалы по нейронным сетям](https://cs231n.github.io/) eng
 * [Полезное расширение для Jupyter](https://github.com/jupyter-lsp/jupyterlab-lsp) eng
 * [Небольшой сборник задач на тервер](http://math-hse.info/a/2013-14/ps-aa/statlecture4.pdf) ru
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
 ### Книги
 * [Шпигельхалтер Д. - Искусство статистики](https://disk.yandex.ru/i/-bHkrxGTSyS-hA) rus
 * [Математика для машинного обучения](https://mml-book.github.io/) eng
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
