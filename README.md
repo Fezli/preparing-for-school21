@@ -11,6 +11,14 @@
 * [Небольшое описание VIM](https://guides.hexlet.io/ru/vim/)
 * [Курс по VIM](https://www.youtube.com/playlist?list=PL8hRAtHSjAgZv7WFVDvQzzU-WoL-7jZGJ)
 * [Гайд по VS Code](https://www.youtube.com/watch?v=nxCLXMBl4e4)
+### Книги
+* [Протоколы, алгоритмы и исходные тексты на языке С](https://disk.yandex.ru/i/3MEPUwjRRy0j1w)
+* [Думай как программист](https://disk.yandex.ru/i/ygsnfTVYZTGMoQ)
+* [Язык программирования C. Лекции и упражнения](https://disk.yandex.ru/i/Yeyuk8Csy8IRjg)
+* [Библия Linux](https://disk.yandex.ru/i/D0Rf6ICismjP6g)
+* [Алгоритмы и алгоритмические языки](https://disk.yandex.ru/i/diOFcnueO9LMNA)
+* [Как программировать на C++](https://disk.yandex.ru/i/SbE7hYpv81NzVQ)
+* [Алгоритмические трюки для программистов](https://disk.yandex.ru/i/potuf7Hf191Rig)
 # Машинное обучение
 ### Обучение
 * [Математика для машинного обучения карта](https://maps.joindeltaacademy.com/) eng
