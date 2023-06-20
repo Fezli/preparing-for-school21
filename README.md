@@ -10,6 +10,7 @@
 ### IDE
 * [Небольшое описание VIM](https://guides.hexlet.io/ru/vim/)
 * [Курс по VIM](https://www.youtube.com/playlist?list=PL8hRAtHSjAgZv7WFVDvQzzU-WoL-7jZGJ)
+* [Учебник по VIM](https://learntutorials.net/ru/vim/topic/879/%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D1%81-vim)
 * [Гайд по VS Code](https://www.youtube.com/watch?v=nxCLXMBl4e4)
 ### Книги
 * [Протоколы, алгоритмы и исходные тексты на языке С](https://disk.yandex.ru/i/3MEPUwjRRy0j1w)
