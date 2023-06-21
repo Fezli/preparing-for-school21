@@ -20,6 +20,33 @@
 * [Алгоритмы и алгоритмические языки](https://disk.yandex.ru/i/diOFcnueO9LMNA)
 * [Как программировать на C++](https://disk.yandex.ru/i/SbE7hYpv81NzVQ)
 * [Алгоритмические трюки для программистов](https://disk.yandex.ru/i/potuf7Hf191Rig)
+### Лекции из гарварда
+#### Введение в C
+* [1](https://youtu.be/c1nnNuZ1UEg)
+* [2](https://youtu.be/cqer3bxnomI)
+* [3](https://youtu.be/dDdzw0Oho5M)
+* [4](https://youtu.be/vXA-46_2544)
+#### Массивы
+* [1](https://youtu.be/A4b6gHt_E6Y)
+* [2](https://youtu.be/sl8KyooYXZc)
+* [3](https://youtu.be/r3v1QobHKS0)
+* [4](https://youtu.be/qIthovleD20)
+#### Алгоритмы
+* [1](https://youtu.be/TEyuZ4qrdGc)
+* [2](https://youtu.be/EHsqRjmog70)
+* [3](https://youtu.be/zPwXqewH8Yw)
+* [4](https://youtu.be/CE7Ql6j5FEg)
+#### Память
+* [1](https://youtu.be/vojgLJ6iMxs)
+* [2](https://youtu.be/lver1cZ61Hw)
+* [3](https://youtu.be/GzgRMISONus)
+* [4](https://youtu.be/WkDCjda-oAo)
+#### Структуры данных
+* [1](https://youtu.be/12XwZ4CQ1Zg)
+* [2](https://youtu.be/aqg8H34r0b4)
+* [3](https://youtu.be/JkJ0WPGl_a8)
+* [4](https://youtu.be/84wq6xau7XQ)
+* [5](https://youtu.be/Msv8bnJdmYA)
 # Машинное обучение
 ### Обучение
 * [Математика для машинного обучения карта](https://maps.joindeltaacademy.com/) eng
